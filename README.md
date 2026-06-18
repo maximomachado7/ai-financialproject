@@ -218,6 +218,20 @@ small-cap-spotlight/
 
 ---
 
+## Social Impact
+
+**58 million Americans own stocks without a financial advisor.** They're left relying on headlines, Reddit threads, and incomplete data — especially for the 2,000+ small-cap stocks ($50M–$2B market cap) that institutional research largely ignores. That gap isn't just inconvenient; it's where unadvised retail investors are most likely to make uninformed decisions and get burned.
+
+Small-Cap Spotlight is built to close that gap responsibly:
+- **Democratizes access** to structured, current research that was previously available only through paid analyst tools or institutional terminals
+- **Uses live web search**, not stale training data, so every briefing reflects real, current information
+- **Never gives financial advice** — every briefing focuses on facts (business model, catalysts, risks, signals to watch) and explicitly avoids price targets or buy/sell recommendations, paired with a clear disclaimer
+- **Lowers the barrier to informed investing** for the millions of retail investors who don't have — and may never have — access to a financial advisor
+
+The goal isn't to replace professional advice. It's to give unadvised investors the same starting point a junior analyst would get, so they can ask better questions and do better research on their own.
+
+---
+
 ## Disclaimer
 
 **This application is for research and educational purposes only. Nothing on this platform constitutes financial advice, a recommendation to buy or sell any security, or a solicitation of any kind. Always consult a licensed financial advisor before making investment decisions. Past performance does not predict future results. AI-generated content may be incomplete or inaccurate.**

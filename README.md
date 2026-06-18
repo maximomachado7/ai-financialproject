@@ -153,7 +153,7 @@ pm2 save
 
 ### Production Security Checklist
 - [ ] Set `CLIENT_ORIGIN` to your actual frontend domain
-- [ ] Store `ANTHROPIC_API_KEY` in AWS Secrets Manager or Parameter Store
+- [ ] Store `ANTHROPIC_API_KEY` in AWS Secrets Manager or Parameter Store (never commit it to git)
 - [ ] Put the app behind an Application Load Balancer with HTTPS/SSL
 - [ ] Enable AWS WAF to supplement the built-in rate limiter (10 req/min)
 

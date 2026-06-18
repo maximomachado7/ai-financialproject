@@ -7,6 +7,8 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-18-blue)](https://react.dev)
 
+**Live demo:** [small-cap-spotlight.onrender.com](https://small-cap-spotlight.onrender.com/)
+
 ---
 
 ## The Problem
